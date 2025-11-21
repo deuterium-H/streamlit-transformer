@@ -1,0 +1,4 @@
+streamlit>=1.22
+transformers>=4.30
+huggingface-hub>=0.18
+torch>=2.0

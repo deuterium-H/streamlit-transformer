@@ -1,0 +1,9 @@
+.gitignore:
+.env
+__pycache__/
+.venv/
+*.pyc
+.vscode/
+.ipynb_checkpoints/
+model_cache/
+.cache/
